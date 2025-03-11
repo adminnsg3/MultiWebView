@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237141332846",
+    "project_id": "multiwebview-ebc9e",
+    "storage_bucket": "multiwebview-ebc9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237141332846:android:c5c2611f0d16bdfc6aa77f",
+        "android_client_info": {
+          "package_name": "com.inw24.multiwebview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1XyFd-TH206xmKJBKRw2fTNoMm3lIC0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
